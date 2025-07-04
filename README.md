@@ -66,6 +66,8 @@ pip install -r requirements.txt
 ## Weights and Data
 
 Model weights and vocabularies are expected in the `weights/` directory. Example data is in `datasets/`.
+The weight file can be downloaded from the following address:
+https://pan.quark.cn/s/383527f6d0b3
 
 ---
 For more details, see the code and comments in each module.
