@@ -1,0 +1,10 @@
+# This project is tested on Python 3.8. Other Python versions are not guaranteed to work.
+torch==1.10.0
+numpy==1.21.6
+matplotlib==3.7.1
+bert4torch==0.1.5
+transformers==4.19.2
+Pillow==8.4.0
+scikit-learn==1.0.2
+scipy==1.10.1
+opencv-python==4.7.0.72
